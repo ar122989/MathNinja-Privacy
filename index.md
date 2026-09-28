@@ -17,7 +17,8 @@ information. It has:
 - no in-app purchases
 - no chat or social features
 - no third-party code that collects data
-- no internet access (the app does not request Android's internet permission)
+- no internet access: the app never goes online (on Android it doesn't even request
+  the internet permission)
 
 ## What the app stores on the device
 
